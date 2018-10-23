@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 50px;
+  font-family: "Times New Roman";
+}
+
+button {
+  width: 100px;
+  height: 35px;
+  margin-right: 15px;
+  background-color: grey;
+  border: grey;
+}
+
